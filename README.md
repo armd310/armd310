@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Alex
 
-<!--
-**armd310/armd310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Science student** at Concordia University, graduating in **May 2025**. I'm passionate about applying machine learning and data analysis to solve real-world problems in healthcare, logistics, and urban infrastructure.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Python, R, TypeScript, SQL
+- **ML/Data Science:** PyTorch, scikit-learn, NumPy, pandas
+- **Web Development:** JavaScript, HTML/CSS, Vite
+- **Tools:** Git, Jupyter, RStudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- **Pothole Prediction Model** - ML model for infrastructure maintenance optimization
+- **Montreal Housing Price Analysis** - Geospatial visualization of real estate trends
+- **Text Message Analysis** - NLP pipeline for conversation pattern detection
+
+## Let's Connect
+- LinkedIn: www.linkedin.com/in/alexandre-david-55a974194
+- Email: alexrmdavid@gmail.com
+
+---
+
+*Looking for full-time Data Science/ML opportunities starting June 2025*
