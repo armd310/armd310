@@ -22,7 +22,7 @@ Machine Learning • Geospatial Analysis • Data Visualization • Predictive M
 Machine learning model predicting pothole recurrence within 6 months using geospatial analysis, road conditions, and weather data
 - **Tech:** Python, GeoPandas, scikit-learn, Random Forest, cKDTree
 - **Impact:** 78% precision for infrastructure maintenance optimization
-- **Scale:** 138,000+ geospatial repair records
+- **Scale:** ~700,000 geospatial repair records
 
 ### [Montreal Housing Price Analysis](https://github.com/armd310/montrealhousingprices)
 Geospatial visualization and analysis of median family home prices across Montreal neighborhoods
